@@ -10,6 +10,20 @@ Eu sou um estudante de engenharia da computação, à procura de estágios para 
 
 Observação: meus conhecimentos estão em níveis básicos em Git e Markdown. Já em Linux, estou me aprofundando cada vez mais e posso dizer que sou um iniciante competente.
 
+## Projetos Destacados
+
+### Projeto XYZ
+
+- Descrição: Um projeto interessante que desenvolvi durante meus estudos.
+- Tecnologias: Python, Flask, HTML, CSS, JavaScript.
+- [Link para o Projeto](https://github.com/SeuNome/ProjetoXYZ)
+
+### Projeto ABC
+
+- Descrição: Um projeto colaborativo que participei com outros desenvolvedores.
+- Tecnologias: Java, Spring Boot, MySQL.
+- [Link para o Projeto](https://github.com/SeuNome/ProjetoABC)
+
 ## Contate-me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/everton-vinicius-sena-varini-69906b2a4)
